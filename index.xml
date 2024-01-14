@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>tonic-harmonic-1</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
     <ru>e544700394203e3c577a50e91cc927f5d0cca6768852ea6420c576560498b7a3</ru>
@@ -81,7 +81,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="o12.mp4" size="1191977" type="video/mp4">3e4404ea532890be454c36bec13410f19f69e6a7ae79fcf7e03bd465d521b0b8</video>
+    <video name="o12.1.mp4" size="775055" type="video/mp4">e40170e1ce02393aac7787eb3087ead59d4679f8005d699869d4b753cf970d04</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -131,7 +131,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="o14.mp4" size="1275277" type="video/mp4">bf52bf584d58a87605f59b5316488ec4e7bafe276751b9de037a454e3c79147d</video>
+    <video name="o13.mp4" size="1265851" type="video/mp4">d6d165940b7b1189b7715392768537b19621eaada11250961dbd1ed3c4e0f0b5</video>
     <notes>
       <note number="1" values="18" ticks="0" durationTicks="187" ppq="96" velocity="0.843"/>
       <note number="2" values="1" ticks="0" durationTicks="91" ppq="96" velocity="0.913"/>
