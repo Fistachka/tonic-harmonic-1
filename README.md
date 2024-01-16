@@ -1,27 +1,12 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
-# Октава и Унисон 
+Основные интервалы.
+Расстояние между двумя соседними нотами может быть равно как целому тону (например, между «до» и «ре»), так и полутону (например, между «ми» и «фа»). Очевидно, что одной количественной величины не достаточно, чтобы точно определить интервал: между «до» и «ре» — секунда, между «ми» и «фа» — секунда. Но в первом случае между звуками целый тон, а во втором — полутон. 
+Для того, чтобы обозначить точное расстояние между звуками, к названиям интервалов добавляют уточнения: большой/ малый/ чистый/ уменьшённый/ увеличенный.
+Источник: https://www.music-theory.ru/index.php?option=com_content&view=article&id=22&Itemid=167&lang=ru
 <br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
-# Octave and Unison - harmonic
-
-In music theory when you play two notes separately in time, one after the other, it is called a melodic interval.
-
-When you play two notes at the same time - this is a harmonic interval.
-
-In this lesson we will learn to identify by ear tonic and tonic one octave above.
-We will have one of the three options:
-
-1️⃣  Two lower tonics playing at the same time. If there's no distance between notes (that is the same note is playing) this distance (or interval) is called a `Unison` 
-
-![](https://github.com/stolbitsa/stolbitsa/assets/149964365/e6ba95eb-2932-4403-9f60-324be27f6fc1)
-
-2️⃣ Two upper tonics playing at the same time. Upper `Unison`
-
-![](https://github.com/stolbitsa/stolbitsa/assets/149964365/d70c28cb-5b58-422d-8d35-c43d95fccccc)
-
-3️⃣ Tonic and tonic one octave above. `Octave`
-
-![](https://github.com/stolbitsa/stolbitsa/assets/149964365/11695a94-1863-4f8b-85ec-0aea722db761)
-
-Try to guess which option is playing!
+Basic intervals.
+The distance between two adjacent notes can be either a whole tone (for example, between “C” and “D”), or a semitone (for example, between “E” and “F”). Obviously, one quantitative value is not enough to accurately determine the interval: between “do” and “re” - a second, between “mi” and “fa” - a second. But in the first case there is a whole tone between the sounds, and in the second there is a semitone.
+In order to indicate the exact distance between sounds, clarifications are added to the names of the intervals: large/small/pure/reduced/increased.
+Source: https://www.music-theory.ru/index.php?option=com_content&view=article&id=22&Itemid=167&lang=ru
 <br><br>
