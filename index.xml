@@ -2,8 +2,8 @@
 <level>
   <owner>Fistachka</owner>
   <repo>tonic-harmonic-1</repo>
-  <version>v1.0.10</version>
-  <next number="1" owner="stolbitsa" repo="tonic-harmonic-2"/>
+  <version>v1.0.11</version>
+  <next number="1" owner="Fistachka" repo="tonic-harmonic-2"/>
   <readme>
     <ru>ff83263aaed8f355deb6bebf3395b54d56950f32926e4af9f18d54934ba046c8</ru>
     <en>dc95b18898fe8b1687674495552f19a782ac74efd4c9960cc8b771862e827574</en>
