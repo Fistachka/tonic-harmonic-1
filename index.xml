@@ -2,10 +2,10 @@
 <level>
   <owner>Fistachka</owner>
   <repo>tonic-harmonic-1</repo>
-  <version>v1.0.14</version>
+  <version>v1.0.15</version>
   <next number="1" owner="Fistachka" repo="tonic-harmonic-2"/>
   <readme>
-    <ru>debedd09c883d2d31615475133fa14c2bbebec8405e4dfe13f5536866d14298a</ru>
+    <ru>cf0068b73063c4c7696fee33f5e70aedce15c2bc783158057dedaf7e81f4f098</ru>
     <en>dfc80765b68a57e8f640502da62ae13f1682b8a00cd53a0f5fba36a3b7b4748d</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
